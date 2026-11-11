@@ -1,0 +1,61 @@
+HORIZON: WAKE UP
+How to play
+
+Horizon is a student who finds out the school day is a simulation. You see the world from behind them. The people who attack you are constructs: glitching staff and faceless hall monitors in dark suits. Other students flicker out of the scene when trouble starts. They are never targets.
+
+A full run on Normal is meant to take about half an hour if you are learning the fights. You can finish faster once the powers click. Easy is forgiving. Hard is stingy with Focus and the constructs shoot straighter.
+
+THE POWERS
+They arrive one level at a time. Later levels already know the earlier tricks.
+
+1. Classroom — Focus. Hold the trigger. Harder pressure means slower time and a faster drain on the meter. Let go and the meter refills.
+2. Hallways — Dodge. A slow lean and roll through the lanes of fire. You cannot be hit during the roll.
+3. Cafeteria — Code Sight. The rooms turn into green wireframe. Intent lines show who is about to shoot.
+4. Gym — Stop. Raise a hand and the live shots hang in the air, then fall and chime when they hit the floor.
+5. Rooftop — Return. While shots are hanging, send them back. They curve toward a construct. On Easy they curve hard. On Hard you need to be facing the target.
+6. Office wing — the Principal, the sim's guardian. Three phases: the office, a skybridge where the world flips to code and a full volley has to be stopped, then a hand-to-hand fight.
+
+Fighting is hands, not guns. Light strikes chain into each other. A heavy lands harder. After a few hits, a heavy on a hurt construct becomes a slow finisher. Parry just as a melee swing or a close shot arrives and you stagger them. Pixel hacks gates, Vesper brawls, and Lumen marks the most dangerous construct so your hits count more.
+
+XBOX PAD
+The browser only sees a pad after you click or tap the page once, then press a button. The title says Press A to start until that happens.
+
+Left stick — move
+Right stick — camera
+A — jump
+B — dodge / roll
+X — light strike
+Y — heavy strike
+RT — Focus. This trigger is analog: press it further to slow time more.
+LT — Stop shots, once you have learned it
+While shots are held, X or RT — Return them
+RB — Code Sight
+LB — parry
+Menu — pause
+
+The pad rumbles when it can. Shots coming from your left hit the heavy motor. Shots from the right hit the light motor. Low health adds a heartbeat. Stopping a volley is a hard thump. If a pad has no rumble motor, the game keeps going.
+
+KEYBOARD AND MOUSE
+Click the view to look around with the mouse. WASD moves relative to the camera.
+
+Space — jump
+Shift — dodge
+J or left mouse — light strike
+K or right mouse — heavy strike
+Q — Focus (full pressure while held)
+E — Stop
+F — Return
+R — Code Sight
+C — parry
+Esc — pause
+Enter — skip a conversation line, or confirm a menu
+
+IPAD AND TRACKPAD
+Touch controls are a stick on the left, a look area on the right, and large buttons for the same actions. A trackpad or mouse uses the same look and click behavior as on a Mac. You can force the on-screen buttons in Settings.
+
+MENUS
+Play starts at the classroom. Level Select opens levels you have cleared toward. Co-op lets a second Xbox pad play Vesper, Pixel, or Lumen on the same screen. Horizon keeps the sim powers. Settings cover difficulty (Easy, Normal, Hard), graphics quality (use Low or Medium on an iPad), blood, music, effects, voice volume or off, aim assist, and camera shake. Progress and settings are saved on this device.
+
+Ranks at the end of a level run from D up to S. Dying rewinds you to the last checkpoint inside the level. Blood, when it is on, is a short red spray on a construct and then breaks into green glyphs. Turn it off in Settings if you do not want it.
+
+Dialogue is short and written on screen. If the device can speak, each person has their own pitch. If it cannot, you still get the subtitles. Voice can be set to Off.
